@@ -1,0 +1,13 @@
+__pycache__/
+
+# Virtual environment
+.env
+/venv
+
+# Distribution/Packaging
+build/
+dist/
+
+# pytest
+.cache/
+test-results/

@@ -1,0 +1,10 @@
+fastapi
+email-validator
+httpx
+Jinja2
+python-multipart
+uvicorn
+black
+isort
+flake8
+pre-commit
